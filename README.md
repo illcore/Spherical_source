@@ -1,1 +1,1 @@
-# A spherical source in GEANT4
+# A solid uniform spherical source in GEANT4
