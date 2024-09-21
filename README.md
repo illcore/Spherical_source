@@ -1,1 +1,1 @@
-# Spherical_source
+# A spherical source in GEANT4
